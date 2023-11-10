@@ -20,6 +20,7 @@
 }
 
 #MMM-HomeAssistant-Touch .ha-entity.ha-switch.on,
+#MMM-HomeAssistant-Touch .ha-entity.ha-fan.on,
 #MMM-HomeAssistant-Touch .ha-entity.ha-light.on {
   background-color: #2af20261;
 }
