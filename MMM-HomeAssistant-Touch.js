@@ -18,6 +18,7 @@ Module.register("MMM-HomeAssistant-Touch", {
     return [
       this.file("./helpers/UIClassFactory.js"),
       this.file("./UIClasses/Base.js"),
+      this.file("./UIClasses/Fan.js"),
       this.file("./UIClasses/Slider.js"),
       this.file("./UIClasses/Light.js"),
       this.file("./UIClasses/Switch.js"),

@@ -7,6 +7,8 @@ class UIClassFactory {
         return Light;
       case "switch":
         return Switch;
+      case "fan":
+        return Fan;
       case "cover":
         return Cover;
       case "media_player":
